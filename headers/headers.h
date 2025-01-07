@@ -10,6 +10,7 @@
 #include <sys/time.h>
 #include <thread>
 #include <vector>
+#include <memory>
 
 #define ROW_NUMBER 25
 #define COLUMN_NUMBER 55

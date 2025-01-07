@@ -5,7 +5,7 @@
  */
 
 #include <stdio.h>
-#include <stropt.h>
+// #include <stropt.h>
 #include <sys/ioctl.h>
 #include <sys/select.h>
 #include <termios.h>
